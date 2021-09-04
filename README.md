@@ -4,4 +4,4 @@ A simple JavaScript application that changes the background color each time a bu
 
 ## Credits
 
-Shout out to jsbeginners for the codebase!!!
+Shout out to jsbeginners for the existing codebase!!!
